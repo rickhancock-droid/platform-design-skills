@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Platform Design Skills",
+  "date": "August 2026",
+  "abstract": "Apple's interface design and fluid-motion principles translated to the web platform. 17 sections covering response latency, direct manipulation, interruptibility, spring behavior (damping/response), velocity handoff, momentum projection, spatial consistency, rubber-banding, gesture design, frame-level smoothness, translucent materials and depth, multimodal feedback, reduced motion, typography (optical sizing, tracking, leading), the eight Apple design principles, and prototyping process. Distilled from Apple WWDC design sessions; examples are CSS, Pointer Events, requestAnimationFrame, and Motion/Framer Motion.",
+  "references": [
+    "Designing Fluid Interfaces (WWDC 2018)",
+    "The Details of UI Typography (WWDC 2020)",
+    "Designing Audio-Haptic Experiences (WWDC 2021)",
+    "Principles of Great Design (WWDC 2026)",
+    "https://developer.apple.com/design/human-interface-guidelines/"
+  ]
+}
